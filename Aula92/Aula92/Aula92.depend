@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693684472 source:c:\users\bruno\documents\curso de c\aulas\aula92\aula92\main.c
+	<stdio.h>
+	<stdlib.h>
+
